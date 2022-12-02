@@ -4,3 +4,6 @@ build/*
 out/*
 .gradle/*
 target/*
+
+### Environment variables ###
+.env/wmb.env
