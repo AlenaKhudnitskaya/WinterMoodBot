@@ -2,8 +2,21 @@ version: '3.1'
 
 services:
   wmb:
+    container_name: wmb
     build:
       context: .
     env_file:
-      .env/wmb.env
+      - ./.env/wmb.env
+    depends_on:
+      - wmb-db
+    restart: always
+  wmb-db:
+    container_name: wmb-db
+    image: mysql:latest
+    env_file:
+      - ./.env/wmb-db.env
+    ports:
+      - '3309:3306'
+    expose:
+      - '3306'
     restart: always

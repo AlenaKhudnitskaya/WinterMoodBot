@@ -8,4 +8,8 @@
 * Added telegram bot to the project
 
 ## 0.2.0-SNAPSHOT
-* Added Command pattern  
+* Added Command pattern 
+* Added deployment to the project
+
+## 0.3.0-SNAPSHOT
+* Added repository level
