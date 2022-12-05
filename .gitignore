@@ -6,4 +6,4 @@ out/*
 target/*
 
 ### Environment variables ###
-.env/wmb.env
+.env/*
