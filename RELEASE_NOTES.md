@@ -13,3 +13,6 @@
 
 ## 0.3.0-SNAPSHOT
 * Added repository level
+
+## 0.4.0-SNAPSHOT
+* Added command /random that works with database
