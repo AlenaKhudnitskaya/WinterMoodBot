@@ -11,7 +11,9 @@ Repository creates for fast running development process with configuration, whic
 Can be found in [RELEASE_NOTES](RELEASE_NOTES.md).
 
 ## Authors
-* Roman Beskrovnyi - [romankh3](https://github.com/romankh3)
+* Alena Khudnitskaya
+* the example from Roman Beskrovnyi - [romankh3](https://github.com/romankh3)
+
 
 ## Acknowledgments
 ...
